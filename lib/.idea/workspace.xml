@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="394bc302-4697-4edd-8585-bde178ad2acf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Problem_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Problem_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Problem_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlp/fully_conn.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlp/fully_conn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlp/layer_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlp/layer_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlp/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/mlp/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/optim.py" beforeDir="false" afterPath="$PROJECT_DIR$/optim.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rnn/layer_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/rnn/layer_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rnn/rnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/rnn/rnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rnn/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/rnn/train.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hT7U0ZocMkbfh7iXneZw2Amgbp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="394bc302-4697-4edd-8585-bde178ad2acf" name="Default Changelist" comment="" />
+      <created>1600023239476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600023239476</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="221" y="89" key="SettingsEditor" timestamp="1600718065179">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1600718065179" />
+  </component>
+</project>
